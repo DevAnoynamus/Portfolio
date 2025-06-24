@@ -1,61 +1,37 @@
 <a id="readme-top"></a>
 
-<!-- SHIELDS -->
-[![Stars](https://img.shields.io/github/stars/DevAnoynamus/Portfolio?style=for-the-badge)](https://github.com/DevAnoynamus/Portfolio/stargazers)
-[![Forks](https://img.shields.io/github/forks/DevAnoynamus/Portfolio?style=for-the-badge)](https://github.com/DevAnoynamus/Portfolio/fork)
-[![MIT License](https://img.shields.io/github/license/DevAnoynamus/Portfolio?style=for-the-badge)](LICENSE)
+<div align="center">
+  <h1 style="color:#FF4C60; font-family:'Orbitron',sans-serif; text-shadow:0 0 8px #FF4C60;">
+    ANOYANMUS — THE VILLAIN PORTFOLIO
+  </h1>
+  <p style="color:#AAA; font-style:italic;">
+    Live Domain → <a href="https://portfolio-seven-bice-40.vercel.app" style="color:#FF4C60;">portfolio‑seven‑bice‑40.vercel.app</a>
+  </p>
+</div>
+
+<hr style="border:1px solid #333" />
+
+## 🧪 Dark Powers Inside
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="24" style="vertical-align:middle" /> **Next.js 14 (App Router)** & **TypeScript**  
+<img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="24" style="vertical-align:middle" /> **TailwindCSS** with seamless dark/light mode  
+<img src="https://media.giphy.com/media/d2lcHJTG5Tscg/giphy.gif" width="24" style="vertical-align:middle" /> **Framer Motion** for entrance & hover animations  
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="24" style="vertical-align:middle" /> Google Fonts via `next/font`  
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="24" style="vertical-align:middle" /> Hosted on **Vercel** — instant deploy
 
 ---
 
-<h1 align="center">
-  🦹‍♂️ Anoynamus — Animated Developer Portfolio
-</h1>
+## 🧟‍♀️ What Your Guests Will See
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=🔥+Animated+Portfolio+with+Next.js;💀+Fully+Responsive+and+Fast;⚡+Dark+Mode+Ready" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://portfolio-seven-bice-40.vercel.app"><strong>🚀 View Live Demo</strong></a>
-</p>
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="24" style="vertical-align:middle" /> **Cinematic hero entrance**—animated, dark, unforgettable  
+<img src="https://media.giphy.com/media/l3vR9O9pKJeX9RkNa/giphy.gif" width="24" style="vertical-align:middle" /> **Glassmorphic project cards**—they float and glow on hover  
+<img src="https://media.giphy.com/media/d2lcHJTG5Tscg/giphy.gif" width="24" style="vertical-align:middle" /> **Contact form** with animated ‘send’ feedback  
+🧭 Fully responsive across devices  
+⚡ SEO optimized and lightning-fast
 
 ---
 
-## 🖼️ Preview
-
-| Hero Section | Projects | Contact |
-|--------------|----------|---------|
-| ![Hero](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif) | ![Projects](https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif) | ![Contact](https://media.giphy.com/media/d2lcHJTG5Tscg/giphy.gif) |
-
----
-
-## 🔧 Built With
-
-- ⚙️ **Next.js 14 (App Router)**
-- 🎨 **Tailwind CSS**
-- 🎥 **Framer Motion**
-- 🧠 **TypeScript**
-- 🌗 **Dark/Light Toggle**
-- 🔠 **Google Fonts (via `next/font`)**
-- 🚀 **Deployed on Vercel**
-
----
-
-## 🔥 Features
-
-- 🚀 Fully responsive design
-- 🎞️ Animated page sections
-- 🧊 Glassmorphism cards with hover effects
-- 🌗 Light & dark theme toggle
-- 🔗 Social media integration
-- 📬 Animated contact form
-- ⚡ Blazing fast performance (optimized build)
-
----
-
-## 🛠️ Getting Started
-
-To clone and run this app locally:
+## 🛠️ Activate in Your Lair
 
 ```bash
 git clone https://github.com/DevAnoynamus/Portfolio.git
