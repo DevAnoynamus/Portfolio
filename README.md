@@ -1,42 +1,43 @@
 # ⚡ Anoynamus — Animated Developer Portfolio
 
-**Live Demo →** [portfolio-seven-bice-40.vercel.app](https://portfolio-seven-bice-40.vercel.app)
+🌐 **Live Demo:** [portfolio-seven-bice-40.vercel.app](https://portfolio-seven-bice-40.vercel.app)
 
-A high-performance, fully animated portfolio built with **Next.js**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**.
-
----
-
-## 🎬 Visual Preview
-
-| Hero Animation | Project Cards | Contact Motion |
-|----------------|----------------|----------------|
-| ![](https://github.com/DevAnoynamus/Portfolio/blob/main/public/hero.gif) | ![](https://github.com/DevAnoynamus/Portfolio/blob/main/public/projects.gif) | ![](https://github.com/DevAnoynamus/Portfolio/blob/main/public/contact.gif) |
+A responsive, fully animated developer portfolio built with **Next.js**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**. Designed to showcase your skills with motion, color, and bold design.
 
 ---
 
-## ⚙️ Tech Stack
+## 🎬 Preview
 
-- **Next.js (App Router)**
-- **Tailwind CSS (Dark/Light Mode)**
-- **Framer Motion (Animations)**
-- **TypeScript (Strict Typing)**
-- **Google Fonts via `next/font`**
-- **Deployed on Vercel**
+| ✨ Hero Section | 💼 Project Cards | 📬 Contact Form |
+|----------------|------------------|------------------|
+| ![Hero](https://github.com/DevAnoynamus/Portfolio/blob/main/public/hero.gif) | ![Projects](https://github.com/DevAnoynamus/Portfolio/blob/main/public/projects.gif) | ![Contact](https://github.com/DevAnoynamus/Portfolio/blob/main/public/contact.gif) |
 
 ---
 
-## ✨ Features
+## 🚀 Technologies Used
 
-- 🎥 Smooth animations on load and scroll
-- 🧩 Glassmorphism project cards with hover effects
-- 🌗 Theme toggle (light/dark)
-- 🎯 Fully responsive for mobile and desktop
-- 🔗 Social media icons with hover effects
-- 📬 Contact form with visual feedback animation
+- **Framework**: Next.js 14+
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **Animations**: Framer Motion
+- **Fonts**: Google Fonts via `next/font`
+- **Deployment**: Vercel
 
 ---
 
-## 🚀 Make Your Own
+## 🎨 Features
+
+- ✅ Animated hero with entrance motion
+- ✅ Dark/Light mode with smooth toggle
+- ✅ Glassmorphism project cards with hover effects
+- ✅ Mobile-first, fully responsive layout
+- ✅ Animated page transitions and scroll reveals
+- ✅ SEO optimized and fast-loading
+- ✅ Contact form with visual feedback
+
+---
+
+## ⚙️ Get Started Locally
 
 ```bash
 git clone https://github.com/DevAnoynamus/Portfolio.git
