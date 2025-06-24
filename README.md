@@ -1,43 +1,61 @@
-# ⚡ Anoynamus — Animated Developer Portfolio
+<a id="readme-top"></a>
 
-🌐 **Live Demo:** [portfolio-seven-bice-40.vercel.app](https://portfolio-seven-bice-40.vercel.app)
-
-A responsive, fully animated developer portfolio built with **Next.js**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**. Designed to showcase your skills with motion, color, and bold design.
-
----
-
-## 🎬 Preview
-
-| ✨ Hero Section | 💼 Project Cards | 📬 Contact Form |
-|----------------|------------------|------------------|
-| ![Hero](https://github.com/DevAnoynamus/Portfolio/blob/main/public/hero.gif) | ![Projects](https://github.com/DevAnoynamus/Portfolio/blob/main/public/projects.gif) | ![Contact](https://github.com/DevAnoynamus/Portfolio/blob/main/public/contact.gif) |
+<!-- SHIELDS -->
+[![Stars](https://img.shields.io/github/stars/DevAnoynamus/Portfolio?style=for-the-badge)](https://github.com/DevAnoynamus/Portfolio/stargazers)
+[![Forks](https://img.shields.io/github/forks/DevAnoynamus/Portfolio?style=for-the-badge)](https://github.com/DevAnoynamus/Portfolio/fork)
+[![MIT License](https://img.shields.io/github/license/DevAnoynamus/Portfolio?style=for-the-badge)](LICENSE)
 
 ---
 
-## 🚀 Technologies Used
+<h1 align="center">
+  🦹‍♂️ Anoynamus — Animated Developer Portfolio
+</h1>
 
-- **Framework**: Next.js 14+
-- **Language**: TypeScript
-- **Styling**: Tailwind CSS
-- **Animations**: Framer Motion
-- **Fonts**: Google Fonts via `next/font`
-- **Deployment**: Vercel
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=🔥+Animated+Portfolio+with+Next.js;💀+Fully+Responsive+and+Fast;⚡+Dark+Mode+Ready" alt="Typing SVG" />
+</p>
 
----
-
-## 🎨 Features
-
-- ✅ Animated hero with entrance motion
-- ✅ Dark/Light mode with smooth toggle
-- ✅ Glassmorphism project cards with hover effects
-- ✅ Mobile-first, fully responsive layout
-- ✅ Animated page transitions and scroll reveals
-- ✅ SEO optimized and fast-loading
-- ✅ Contact form with visual feedback
+<p align="center">
+  <a href="https://portfolio-seven-bice-40.vercel.app"><strong>🚀 View Live Demo</strong></a>
+</p>
 
 ---
 
-## ⚙️ Get Started Locally
+## 🖼️ Preview
+
+| Hero Section | Projects | Contact |
+|--------------|----------|---------|
+| ![Hero](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif) | ![Projects](https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif) | ![Contact](https://media.giphy.com/media/d2lcHJTG5Tscg/giphy.gif) |
+
+---
+
+## 🔧 Built With
+
+- ⚙️ **Next.js 14 (App Router)**
+- 🎨 **Tailwind CSS**
+- 🎥 **Framer Motion**
+- 🧠 **TypeScript**
+- 🌗 **Dark/Light Toggle**
+- 🔠 **Google Fonts (via `next/font`)**
+- 🚀 **Deployed on Vercel**
+
+---
+
+## 🔥 Features
+
+- 🚀 Fully responsive design
+- 🎞️ Animated page sections
+- 🧊 Glassmorphism cards with hover effects
+- 🌗 Light & dark theme toggle
+- 🔗 Social media integration
+- 📬 Animated contact form
+- ⚡ Blazing fast performance (optimized build)
+
+---
+
+## 🛠️ Getting Started
+
+To clone and run this app locally:
 
 ```bash
 git clone https://github.com/DevAnoynamus/Portfolio.git
