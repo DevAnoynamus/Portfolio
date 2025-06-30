@@ -59,5 +59,3 @@ Then open `http://localhost:3000` in your browser.
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="32" style="vertical-align:middle" /> Fork the repository  
 <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="32" style="vertical-align:middle" /> Star the repo  
 <img src="https://media.giphy.com/media/3o6ZsYQwmB1i1y7y7S/giphy.gif" width="32" style="vertical-align:middle" /> Share with other developers  
-
-Repo: https://github.com/DevAnoynamus/Portfolio
